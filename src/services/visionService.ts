@@ -1,6 +1,6 @@
 import { SupplementProduct } from '../types';
 
-const GEMINI_MODEL = 'gemini-2.0-flash';
+const GEMINI_MODEL = 'gemini-3.1-flash-lite';
 
 const VISION_PROMPT = `You analyze photos of multiple supplement or vitamin bottles arranged together.
 
